@@ -5,8 +5,8 @@ ESP8266WebServer server;
 
 // Currently set for mobile hotspot
 // set to your home network when wanting to connect there
-const char* ssid = "MitchelliPhone";
-const char* pass = "JuoP38&!@12098";
+const char* ssid = "";
+const char* pass = "";
 String valueString = "1";
 
 
